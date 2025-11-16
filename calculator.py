@@ -1,3 +1,7 @@
+#https://github.com/denverpatton/lab11-AL-DP.git
+#Partner 1: Allen Lin
+#Partner 2: Denver Patton
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
